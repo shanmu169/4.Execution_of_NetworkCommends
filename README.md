@@ -27,6 +27,7 @@ This commands includes
 <BR>
 
 ## Output
+```
 Microsoft Windows [Version 10.0.26200.9711]
 (c) Microsoft Corporation. All rights reserved.
 ipconfig:
@@ -338,5 +339,6 @@ Admin State    State          Type             Interface Name
 Enabled        Disconnected   Dedicated        Ethernet
 Enabled        Connected      Dedicated        Ethernet 2
 Enabled        Connected    
+```
 ## Result
 Thus Execution of Network commands Performed 
