@@ -338,7 +338,84 @@ Admin State    State          Type             Interface Name
 -------------------------------------------------------------------------
 Enabled        Disconnected   Dedicated        Ethernet
 Enabled        Connected      Dedicated        Ethernet 2
-Enabled        Connected    
+Enabled        Connected
+10.systeminfo
+C:\Users\acer>systeminfo
+
+Host Name:                     SHANMUU
+OS Name:                       Microsoft Windows 11 Home Single Language
+OS Version:                    10.0.26200 N/A Build 26200
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              acer
+Registered Organization:       N/A
+Product ID:                    00342-42784-66257-AAOEM
+Original Install Date:         01-09-2025, 15:21:05
+System Boot Time:              30-10-2026, 9:42:41
+System Manufacturer:           Acer
+System Model:                  TravelMate P215-75-G2-TCO
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: Intel64 Family 6 Model 170 Stepping 4 GenuineIntel ~1200 Mhz
+BIOS Version:                  INSYDE Corp. V1.05tt01a, 01-09-2025
+Windows Directory:             C:\Windows
+System Directory:              C:\Windows\system32
+Boot Device:                   \Device\HarddiskVolume1
+System Locale:                 en-us;English (United States)
+Input Locale:                  00004009
+Time Zone:                     (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+Total Physical Memory:         15,869 MB
+Available Physical Memory:     3,202 MB
+Virtual Memory: Max Size:      18,301 MB
+Virtual Memory: Available:     3,454 MB
+Virtual Memory: In Use:        14,847 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        WORKGROUP
+Logon Server:                  \\SHANMUU
+Hotfix(s):                     4 Hotfix(s) Installed.
+                               [01]: KB5127690
+                               [02]: KB5054156
+                               [03]: KB5127648
+                               [04]: KB5127647
+Network Card(s):               3 NIC(s) Installed.
+                               [01]: Intel(R) Wi-Fi 6E AX211 160MHz
+                                     Connection Name: Wi-Fi
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     255.255.255.255
+                                     IP address(es)
+                                     [01]: 169.254.217.230
+                                     [02]: fe80::f555:b7fb:2ebf:eb7e
+                                     [03]: 2403:8600:c090:42:0:4fe:140f:f957
+                               [02]: Realtek PCIe GbE Family Controller
+                                     Connection Name: Ethernet
+                                     Status:          Media disconnected
+                               [03]: VirtualBox Host-Only Ethernet Adapter
+                                     Connection Name: Ethernet 2
+                                     DHCP Enabled:    No
+                                     IP address(es)
+                                     [01]: 192.168.56.1
+                                     [02]: fe80::d07d:aed9:2e79:8b65
+Virtualization-based security: Status: Running
+                               Required Security Properties:
+                                     Base Virtualization Support
+                               Available Security Properties:
+                                     Base Virtualization Support
+                                     Secure Boot
+                                     DMA Protection
+                                     UEFI Code Readonly
+                                     SMM Security Mitigations 1.0
+                                     Mode Based Execution Control
+                                     APIC Virtualization
+                               Services Configured:
+                                     Hypervisor enforced Code Integrity
+                               Services Running:
+                                     Hypervisor enforced Code Integrity
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Off
+                               Security Features Enabled:
+Hyper-V Requirements:          A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+
 ```
 ## Result
 Thus Execution of Network commands Performed 
